@@ -124,7 +124,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   gap: 40px;
-  justify-content: space-between;
+  justify-content: center;
   list-style-type: none;
   padding: 0;
 }
@@ -159,6 +159,7 @@ body {
 }
 
 .card__footer {
+  margin: 0;
   margin-top: auto;
   font-size: 14px;
   line-height: 20px;
